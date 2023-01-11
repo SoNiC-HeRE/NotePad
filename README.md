@@ -17,4 +17,4 @@ Tools,Frameworks and Libraries Used:
 <li>Git Bash</li>
 </ul>
 
-Preview: 
+Preview: notepad-sonic.netlify.app
