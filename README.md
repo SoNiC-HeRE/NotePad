@@ -1,6 +1,7 @@
 # NotePad
-An interactive Notepad to keep track of your notes on the Go!
+An interactive web Notepad to keep track of your notes on the Go!
 
+## Specs
 Languages used:
 <ul>
 <li>HTML5</li>
@@ -18,3 +19,13 @@ Tools,Frameworks and Libraries Used:
 </ul>
 
 Preview: notepad-sonic.netlify.app
+
+## Install
+```bash
+npm install
+```
+
+## Run
+```bash
+npm start
+```
